@@ -25,6 +25,7 @@
 *	Soc una nova prova pel cas practic 3.
 *	Intento el push by pull request obligatori.
 *	Hola soc el colaborador
+*	Hola soc el propietari
 ---
 
 
