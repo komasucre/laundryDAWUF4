@@ -22,7 +22,7 @@
 *	You can add laundry type and amount
 *	You can generate of whole or specific report
 *	You can change password and can logout
-
+*	Soc una prova pel cas practic 3
 
 ---
 
