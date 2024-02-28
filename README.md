@@ -22,8 +22,8 @@
 *	You can add laundry type and amount
 *	You can generate of whole or specific report
 *	You can change password and can logout
-*	Soc una nova prova pel cas practic 3
-*	Intento el push by pull request obligatori
+*	Soc una nova prova pel cas practic 3.
+*	Intento el push by pull request obligatori.
 ---
 
 
