@@ -24,6 +24,7 @@
 *	You can change password and can logout
 *	Soc una nova prova pel cas practic 3.
 *	Intento el push by pull request obligatori.
+*	Hola soc el colaborador
 ---
 
 
